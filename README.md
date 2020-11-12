@@ -1,4 +1,6 @@
-### Hi there 👋
+### Forrest Lee Erickson 👋
+Amused Scientist
+
 
 <!--
 **ForrestErickson/ForrestErickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
