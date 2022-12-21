@@ -22,7 +22,7 @@ Recently (2022) I have been volunteering with Public Invention on the GPAD proje
 
 Other:  
 Facebook: https://www.facebook.com/forrest.erickson.5  
-Youtube: https://www.youtube.com/channel/UCAbcwq4yGWFZXJhTRB_R7mw  
+Youtube: https://www.youtube.com/@forresterickson6225
 
 ### Super Power
 Novel and diverse spelling
