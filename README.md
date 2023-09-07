@@ -44,7 +44,7 @@ void printProgramInfo() {
   Serial.println(LICENSE);  
   Serial.println(WARRANTY);  
   Serial.print("Compiled at: ");  
-  Serial.println(F(__DATE__ " " __TIME__) ); //compile date that is used for a unique identifier  
+  Serial.println(F(\_\_DATE\_\_ " " \_\_TIME\_\_) ); //compile date that is used for a unique identifier  
 }//end printProgramInfo()  
 
 
