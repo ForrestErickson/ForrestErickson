@@ -27,6 +27,28 @@ Youtube: https://www.youtube.com/@forresterickson6225
 ### Super Power
 Novel and diverse spelling
 
+### Something for many programs
+// Program information
+#define COMPANY_NAME "Amused Scientist"
+#define PROG_NAME "Explosive_Space_Modulator"
+#define VERSION "; Rev: 0.99"  //
+#define DEVICE_UNDER_TEST "Hardware: Illudium Q-36"  //A model number
+#define LICENSE "GNU Affero General Public License, version 3 "
+#define WARRANTY "Designed to kill you and render the earth uninhabitable, but not guaranteed to do so."
+
+void printProgramInfo() {
+  Serial.print(COMPANY_NAME);
+  Serial.print(PROG_NAME);
+  Serial.println(VERSION);
+  Serial.println(DEVICE_UNDER_TEST);
+  Serial.println(LICENSE);
+  Serial.println(WARRANTY);
+  Serial.print("Compiled at: ");
+  Serial.println(F(__DATE__ " " __TIME__) ); //compile date that is used for a unique identifier
+}//end printProgramInfo()
+
+
+
 <!--
 **ForrestErickson/ForrestErickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
