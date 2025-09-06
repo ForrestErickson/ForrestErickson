@@ -23,6 +23,7 @@ Recently (2022) I have been volunteering with Public Invention on the GPAD proje
 Other:  
 Facebook: https://www.facebook.com/forrest.erickson.5  
 Youtube: https://www.youtube.com/@forresterickson6225
+Your ORCID iD: 0009-0006-3624-0382, Your ORCID record is https://orcid.org/0009-0006-3624-0382
 
 ### Super Power
 Novel and diverse spelling
