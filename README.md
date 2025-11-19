@@ -18,9 +18,12 @@ Hobbies in no particular order:
 * Paleontology
 * Freethought (fighting supernatural nonsense where ever found.)
 
-Recently (2024-2025) I have been volunteering with Public Invention on the Krake Project. See: https://github.com/PubInv/krake
-Krake is the child project of GPAD project (2022). See:https://github.com/PubInv/general-alarm-device
+Recently (2024-2025) I have been volunteering with Public Invention on the Krake Project. See: https://github.com/PubInv/krake  
+Krake is the child project of GPAD project (2022). See:https://github.com/PubInv/general-alarm-device  
+Public Invention is a non profit company whose mission is: 
+> We invent things that help all people. We empower inventors, technologists, and students to publish, find, and collaborate on invention ideas through direct coaching, team formation, curation of work, publication, co-working/learning events, and in some cases material support.
 
+ 
 Other:  
 Facebook: https://www.facebook.com/forrest.erickson.5    
 Youtube: https://www.youtube.com/@forresterickson6225  
