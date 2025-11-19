@@ -22,8 +22,8 @@ Recently (2024-2025) I have been volunteering with Public Invention on the Krake
 Krake is the child project of GPAD project (2022). See:https://github.com/PubInv/general-alarm-device
 
 Other:  
-Facebook: https://www.facebook.com/forrest.erickson.5  
-Youtube: https://www.youtube.com/@forresterickson6225
+Facebook: https://www.facebook.com/forrest.erickson.5    
+Youtube: https://www.youtube.com/@forresterickson6225  
 Your ORCID iD: 0009-0006-3624-0382, Your ORCID record is https://orcid.org/0009-0006-3624-0382
 
 ### Super Power
