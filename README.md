@@ -32,6 +32,29 @@ Your ORCID iD: 0009-0006-3624-0382, Your ORCID record is https://orcid.org/0009-
 ### Super Power
 Novel and diverse spelling
 
+### Things I want to Learn
+Tensor Notation.
+<hr>  
+
+#### The Transformation Chain
+
+The original vector in the **Standard** system:
+
+$$
+V^j = \begin{pmatrix} 1 \\ 0 \end{pmatrix}
+$$  
+
+An alternate form of the original vector in the Standard system: $V^j = [1, 0]^\intercal$
+
+The first transformation (45° CCW) to the **Primed** system: $V'^i = A^i{}_j V^j$
+
+The second transformation (+30° CCW) to the **Double-Primed** system: $V''^k = B^k{}_i V'^i$
+
+The **Total Transformation** from start to finish: $V''^k = (B^k{}_i A^i{}_j) V^j$
+
+<hr>
+
+
 ### Something for many programs
 // Program information  
 #define COMPANY_NAME "Amused Scientist"  
