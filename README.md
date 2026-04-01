@@ -37,6 +37,7 @@ Tensor Notation.
 <hr>  
 
 #### The Transformation Chain
+Example of two rotaions. Each CCW. First by 45 degrees and then an additional 30 degrees.
 
 The original vector in the **Standard** system:
 
@@ -51,6 +52,32 @@ The first transformation (45° CCW) to the **Primed** system: $V'^i = A^i{}_j V^
 The second transformation (+30° CCW) to the **Double-Primed** system: $V''^k = B^k{}_i V'^i$
 
 The **Total Transformation** from start to finish: $V''^k = (B^k{}_i A^i{}_j) V^j$
+
+
+The first rotation matrix ($A^i{}_j$) for 45° CCW:
+
+$$
+A^i{}_j = \begin{bmatrix} 
+\cos(45^\circ) & \sin(45^\circ) \\ 
+-\sin(45^\circ) & \cos(45^\circ) 
+\end{bmatrix} \approx \begin{bmatrix} 
+0.707 & 0.707 \\ 
+-0.707 & 0.707 
+\end{bmatrix}
+$$
+
+The second rotation matrix ($B^k{}_i$) for an additional 30° CCW:
+
+$$
+B^k{}_i = \begin{bmatrix} 
+\cos(30^\circ) & \sin(30^\circ) \\ 
+-\sin(30^\circ) & \cos(30^\circ) 
+\end{bmatrix} \approx \begin{bmatrix} 
+0.866 & 0.500 \\ 
+-0.500 & 0.866 
+\end{bmatrix}
+$$
+
 
 <hr>
 
