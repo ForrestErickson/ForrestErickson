@@ -27,7 +27,9 @@ Public Invention is a non profit company whose mission is:
 Other:  
 Facebook: https://www.facebook.com/forrest.erickson.5    
 Youtube: https://www.youtube.com/@forresterickson6225  
-Your ORCID iD: 0009-0006-3624-0382, Your ORCID record is https://orcid.org/0009-0006-3624-0382
+Your ORCID iD: 0009-0006-3624-0382, Your ORCID record is https://orcid.org/0009-0006-3624-0382  
+Publications:  
+_Moonrat II: A portable incubator_  https://doi.org/10.1016/j.ohx.2026.e00849
 
 ### Super Power
 Novel and diverse spelling
